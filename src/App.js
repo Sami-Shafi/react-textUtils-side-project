@@ -56,6 +56,7 @@ function App() {
 								textAndOutlineColor={textAndOutlineColor}
 								theme={theme}
 								showAlert={showAlert}
+                                alertText={alert}
 							/>
 						}
 					/>
